@@ -1,0 +1,11 @@
+callback are just name of convention for using javascript function
+
+
+the function cannot be called untile a certain function cannot be called
+
+asynchronous means take some time 
+or happen in future not right now 
+
+usaully callback only used when doing I/O  dowloading things ,reading files ,taking to database
+
+we can call function only when on our desire

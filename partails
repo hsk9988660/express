@@ -1,0 +1,17 @@
+//No de +express js+ hbs +partails
+//we have a server up and running
+
+// lets display more information on our pages
+
+// what exactly partaill is
+
+
+//partail is just like  component in react
+
+//we make only one page and call into other component 
+
+// partaill is same like this 
+
+// we create only one partail ( the efile which repeate again and again we create its partail  and call it in another ) and call it into another place
+
+// it code  file easy and 

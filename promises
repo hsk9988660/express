@@ -1,0 +1,22 @@
+promises
+ are used  to handle asynchronus operations in javascript. They are easy to manage when dealing with multiple asynchronus operations where callback can create hell leading to unmanageable code.
+
+ A promises is an object that keep track about wether a certain event has happened already or not
+
+ Determine what happen after event has happened
+
+ promises has 3 stages 
+ task 
+
+
+you call me at 10 pm 
+1-pending 
+2- resolve
+3-reject
+
+
+
+
+
+
+

@@ -1,0 +1,50 @@
+<!-- // Api
+
+//1-2s student roll  number 
+//2-2nd name and age
+//3-2s gender
+
+const getroll=()=>{
+setTimeout(() => {
+    console.log('roll number 2 are her');
+}, 2000);
+
+
+} -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+const getroll=()=>{
+setTimeout(() => {
+    console.log('roll number 2 are her');
+    let roll_num= [1,2,3,4];
+    console.log(roll_num[1]);
+    setTimeout(() => {
+        const biodata={
+name:"hashim",
+age:22
+
+        }
+        console.log("my name is"  .concat(biodata.name   , "my age is".concat(biodata.age) ) );
+        setTimeout((name) => {
+            biodata.gender='male'
+            console.log("my gender  is"  .concat(biodata.gender   )  );
+        }, 1000);
+    }, 1000);
+  
+}, 1000);
+
+
+} 
+getroll()
+
+    </script>
+</body>
+</html>
